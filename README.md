@@ -12,15 +12,15 @@ When you receive a new task at Netseal or any other software company, follow the
 In today's fast-paced world, efficient communication is vital. You are tasked with developing a Chat Messaging app that allows two parties to send text messages using only local state management.
 
 ## Requirements
-1. **New Contact**: Automatically start a New Conversation with the First Message as `Hey {{Contact Name}}!`.
-2. **New Conversations**: Should appear instantly for both parties in the Conversation List.
-3. **New Messages**: Sending a new message should bring the Conversation to the top of the Conversation List in descending order.
-4. **Delete Conversations**: Removing a conversation should clear All Messages and remove the conversation from both ends.
+1. **New Contact**: Automatically start a "New Conversation with" the "First Message" as `Hey {{Contact Name}}!`.
+2. **New Conversations**: Should appear instantly for both parties in the "Conversation List".
+3. **New Messages**: Sending a new message should bring the "Conversation" to the top of the "Conversation List" in descending order.
+4. **Delete Conversations**: Removing a conversation should clear "All Messages" and remove the conversation from both ends.
 5. **State Management**: Implement all functionalities using in-memory reactive state without a real-time backend.
 
 
 ## Tech Stack
-Utilize any frontend framework you are comfortable with to implement this project.
+Utilize any frontend framework / language you are comfortable with to implement this project.
 
 ## Presentation Guidelines
 - Ensure the implementation aligns with the user story and requirements.
